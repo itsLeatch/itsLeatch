@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsLeatch" alt="itsLeatch" /></a> </p>
 
-- 🔭 I’m currently working on **an organisation and note taking program for school**
+- 🔭 I’m currently working on **finding inspiration for a new project 😅**
 
-- 🌱 I’m currently learning **pytorch,Qt,Vulkan**
+- 🌱 I’m currently learning **pytorch, Vulkan, Unreal Engine**
 
-- 📫 How to reach me **write me on discord! leatch#1838**
+- 📫 How to reach me **write me on discord! itsleatch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
